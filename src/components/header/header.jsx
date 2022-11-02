@@ -21,7 +21,7 @@ export const Header = () => {
 				</div>
 
 				<Link className='header__logo' to='/'>
-					<img src='assets/images/logo.png' />
+					<img src='assets/images/logo.png' alt='logo' />
 				</Link>
 				<ul className='header__cart'>
 					<li>
